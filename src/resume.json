@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Jonathan Bloomer",
+    "label": "Front End Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "jonbloomer@gmail.com",
+    "phone": "0403933281",
+    "website": "http://freaksauce.com",
+    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. In my current role at IAG I am working on an Angular Business Insurance application. I have a very strong interest in full stack javascript development and have recently been experimenting with Meteor and React as well as Typescript and Polymer as you will see from my Github repos. I have experience using build tools such as Grunt & Gulp and templating languages such as Handlebars and experience using Git with both Stash and Github. In my most recent role I have been exposed to enterprise Agile development and received training and certification in SAFe ScrumXP (Scaled Agile Framework).",
+    "location": {
+      "address": "Sutherland",
+      "postalCode": "2232",
+      "city": "Sydney",
+      "countryCode": "Aus",
+      "region": "NSW"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jonbloomer",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "freaksauce",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IAG",
+      "position": "Senior Front End Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "I returned to IAG to work as a React developer on a new application. The app uses React/Redux to integrate with custom API's.",
+      "highlights": []
+    },
+    {
+      "company": "Pacific Magazines",
+      "position": "Senior Front End Developer",
+      "website": "",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-01",
+      "summary": "During my time at Pacific Magazines I worked on a couple of large React applications using React/Redux to integrate with a .NET MVC Application.",
+      "highlights": []
+    },
+    {
+      "company": "IAG",
+      "position": "UI Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2014-11-01",
+      "endDate": "2016-03-01",
+      "summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
+      "highlights": []
+    }
+   
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Birmingham Conservatoire",
+      "area": "Music",
+      "studyType": "Bachelor (hons)",
+      "startDate": "1994-08-01",
+      "endDate": "1998-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "Typescript",
+        "Meteor",
+        "React",
+        "Handlebars",
+        "SASS",
+        "LESS",
+        "Gulp",
+        "Grunt",
+        "Babel",
+        "Bootstrap",
+        "Semantic UI",
+        "Material css",
+        "Node",
+        "php",
+        "MySQL",
+        "Git",
+        "Jira",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
